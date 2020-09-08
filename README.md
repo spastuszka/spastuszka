@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hi, it's Sebastian!👋
+I'm Web Developer
 
+🔭 Currently, I work at [OptiCom.Solutions](https://opticom.solutions/) where I create websites using CMS Wordpress.
+
+### Let's stay in touch:
+
+[Facebook | Sebastian Pastuszka](https://www.facebook.com/s.pastuszka08)
 <!--
 **spastuszka/spastuszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
