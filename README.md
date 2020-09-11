@@ -9,7 +9,7 @@ I'm Web Developer
 
 ### More about me:
 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA, Flutter
 - 👯 I’m looking to collaborate on JAVA
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Wordpress
