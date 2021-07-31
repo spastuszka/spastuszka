@@ -1,7 +1,7 @@
 ## Hi, it's Sebastian!👋
 I'm Web Developer
 
-🔭 Currently, I work at [OptiCom.Solutions](https://opticom.solutions/) where I create websites using CMS Wordpress.
+🔭 Currently, I work at [HyperData](https://www.hyperdata.pl/) where I create websites using CMS Wordpress.
 
 ### Let's stay in touch:
 
