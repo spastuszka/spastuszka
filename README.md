@@ -1,7 +1,7 @@
 ## Hi, it's Sebastian!👋
 I'm Web Developer
 
-🔭 Currently, I work at [HyperData](https://www.hyperdata.pl/) where I create websites using CMS Wordpress.
+🔭 Currently, I work at [WebCrafters](https://webcrafters.pl/) where I create websites using CMS Wordpress.
 
 ### Let's stay in touch:
 
@@ -9,8 +9,7 @@ I'm Web Developer
 
 ### More about me:
 
-- 🌱 I’m currently learning JAVA
-- 👯 I’m looking to collaborate on JAVA
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning WP Core, PHP and JS
+- 👯 I’m looking to collaborate on JS nad PHP
 - 💬 Ask me about Wordpress
 - 📫 How to reach me: [Send a message](mailto:s.pastuszka08@gmail.com)
