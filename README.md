@@ -6,6 +6,7 @@ I'm Web Developer
 ### Let's stay in touch:
 
 [Facebook | Sebastian Pastuszka](https://www.facebook.com/s.pastuszka08)
+
 [LinkedIn | Sebastian Pastuszka](https://www.linkedin.com/in/sebastian-pastuszka/)
 
 ### More about me:
